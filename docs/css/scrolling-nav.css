@@ -44,3 +44,35 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #eee;
 }
+
+.ca {
+	background-color: rgba(211, 71, 153, 0.3);
+}
+
+.neaa {
+	background-color: rgba(217, 29, 68, 0.3);
+}
+
+.sweep {
+	background-color: rgba(244, 145, 30, 0.3);
+}
+
+.meaa {
+	background-color: rgba(125, 65, 153, 0.3);
+}
+
+.neep {
+	background-color: rgba(59, 191, 207, 0.3);
+}
+
+.gray {
+	background-color: rgba(147, 149, 152, 0.3);
+}
+
+.seea {
+	background-color: rgba(247, 212, 20, 0.3);
+}
+
+.speer {
+	background-color: rgba(10, 75, 107, 0.3);
+}
